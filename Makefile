@@ -1,4 +1,7 @@
 
+doc:
+	./doc.sh
+
 all:
 	./get.sh
 
