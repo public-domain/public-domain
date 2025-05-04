@@ -5,6 +5,10 @@ GHUSER="public-domain"
 echo "# PUBLIC DOMAIN SOFTWARE SOURCE CODE" > README.md
 
 echo >> README.md
+
+echo "![screen](shot.png)" >> README.md
+
+echo >> README.md
 date --utc --iso-8601=seconds >> README.md
 echo >> README.md
 
